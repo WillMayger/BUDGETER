@@ -1,0 +1,5 @@
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\Budgeter\bin\Debug\Budgeter.dll
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\Budgeter\bin\Debug\Budgeter.pdb
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\Budgeter\obj\Debug\Budgeter.csprojResolveAssemblyReference.cache
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\Budgeter\obj\Debug\Budgeter.dll
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\Budgeter\obj\Debug\Budgeter.pdb

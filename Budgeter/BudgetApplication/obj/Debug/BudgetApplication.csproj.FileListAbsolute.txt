@@ -1,0 +1,11 @@
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\BudgetApplication\bin\Debug\BudgetApplication.exe.config
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\BudgetApplication\obj\Debug\BudgetApplication.csprojResolveAssemblyReference.cache
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\BudgetApplication\obj\Debug\BudgetApplication.Properties.Resources.resources
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\BudgetApplication\obj\Debug\BudgetApplication.csproj.GenerateResource.Cache
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\BudgetApplication\bin\Debug\BudgetApplication.exe
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\BudgetApplication\bin\Debug\BudgetApplication.pdb
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\BudgetApplication\bin\Debug\Budgeter.dll
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\BudgetApplication\bin\Debug\Budgeter.pdb
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\BudgetApplication\obj\Debug\BudgetApplication.Form1.resources
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\BudgetApplication\obj\Debug\BudgetApplication.exe
+C:\Users\Will Mayger\Desktop\BUDGETER\Budgeter\BudgetApplication\obj\Debug\BudgetApplication.pdb
